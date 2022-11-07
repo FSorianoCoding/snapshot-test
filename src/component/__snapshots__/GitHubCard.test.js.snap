@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot of GitHubCard 1`] = `
+<div
+  className="card"
+>
+  <div
+    className="card"
+    style={
+      Object {
+        "width": "18em",
+      }
+    }
+  >
+    <img
+      className="card-img-top"
+      src="Yoshi.jpg"
+    />
+    <div
+      className="card-body"
+    >
+      <div
+        className="card-title h5"
+      >
+        Fabian Soriano
+      </div>
+      <p
+        className="card-text"
+      >
+        I am a student developer learning to code for the first time.
+      </p>
+    </div>
+  </div>
+</div>
+`;
